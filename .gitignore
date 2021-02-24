@@ -1,3 +1,13 @@
+# Dependency directories
+node_modules/
+
+#github.com/
+.github
+
+# Editor directories and files
+.idea
+.vscode
+
 # Logs
 logs
 *.log
